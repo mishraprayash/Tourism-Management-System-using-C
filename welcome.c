@@ -1,4 +1,4 @@
-
+// Well this was my first coding experience and I know there are a lot of things to be improved.
 #include <stdio.h>   // used for input and output stream.
 #include <string.h>  // helps in using string fucntions.
 #include <stdlib.h>  // it includes functions such as memeory allocaitons, process control, string conversion and so on.
